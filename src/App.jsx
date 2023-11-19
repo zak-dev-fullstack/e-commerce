@@ -8,7 +8,7 @@ function App() {
     <>
  <main>
   <h1>
-    E-Commerce V.0
+    E-Commerce .......
   </h1>
  </main>
     </>
